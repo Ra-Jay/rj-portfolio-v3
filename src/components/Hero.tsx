@@ -93,7 +93,7 @@ export default function Hero() {
 
           <div className="flex flex-wrap gap-4">
             <motion.a
-              href="https://www.linkedin.com/in/raul-jay-yanson-16536a1a7/" // Placeholder
+              href="https://www.upwork.com/freelancers/~010aab282927cd2536" // Placeholder
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="px-8 py-4 rounded-xl bg-linear-to-r from-cyan-500 to-blue-600 text-white font-bold shadow-xl shadow-cyan-500/20 flex items-center gap-2"
