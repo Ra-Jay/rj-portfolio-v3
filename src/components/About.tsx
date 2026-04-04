@@ -46,7 +46,7 @@ export default function About() {
           >
             <div className="aspect-video rounded-3xl overflow-hidden glass shadow-2xl relative z-10">
               <img
-                src="https://picsum.photos/seed/workspace/800/600"
+                src="https://dreamcyberinfoway.com/blog/wp-content/uploads/ai-in-web-development.jpg"
                 alt="Workspace"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
@@ -54,7 +54,7 @@ export default function About() {
               <div className="absolute inset-0 bg-linear-to-t from-navy-900/60 to-transparent flex items-end p-8">
                 <div className="text-white">
                   <p className="text-sm font-semibold opacity-80 uppercase tracking-widest mb-1">Current Focus</p>
-                  <p className="text-2xl font-bold">Scalable Architecture & ML Integration</p>
+                  <p className="text-2xl font-bold">Scalable Architecture & AI Integration</p>
                 </div>
               </div>
             </div>
